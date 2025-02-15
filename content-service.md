@@ -1,7 +1,7 @@
 ## 1)Сущности:
-     * profile - id, name - имя пользователя, surname - Фамилия, description - описание, sex - пол, age - возраст
-     * tag - id, name - имя тэга
-     * response - id, sender_id - id отправителя, recipient_id - id получателя, text - текст отклика, verdict - ожидает PENDING, принят APPROVED или отклонен REJECTED 
+* profile - id, name - имя пользователя, surname - Фамилия, description - описание, sex - пол, age - возраст
+* tag - id, name - имя тэга
+* response - id, sender_id - id отправителя, recipient_id - id получателя, text - текст отклика, verdict - ожидает PENDING, принят APPROVED или отклонен REJECTED 
 
 ## 2)Api
 

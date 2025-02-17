@@ -16,7 +16,7 @@
 * DELETE api/profile - удалить профиль
 * POST api/response - отправить отклик
 * GET api/response?profile_id= - получить все отклики на профиль
-* POST api/response/verdict - принять/отклонить отклик
+* PUT api/response/verdict - принять/отклонить отклик
 
 Админские методы:
 
